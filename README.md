@@ -5,7 +5,7 @@ This application allows the user to create a list of their favorite sensei and s
 2. Navigate to "/naruto-frontend"
     1. run npm install
     2. npm start
-3. navigate to "/phase-3-ruby-group-project-rack-react/backend"
+3. navigate to "/backend"
     1. run shotgun --port=9292
 
 ## Usage
